@@ -101,19 +101,19 @@ I'm passionate about exploring the potential of **AI** and creating projects tha
 
 <div align="left">
 
-### BuurtConnect
-A production-ready full-stack **Java (Spring Boot) + React (Vite + TypeScript)** application for **neighborhood alerts, requests, and community help**.
+### EasyInvoice
+A production-ready full-stack **Java (Spring Boot)** + **React (Vite + JavaScript)** application for **creating, managing, and sending invoices easily and efficiently**.
 
 **Tech & Features:**
-- **CI/CD:** GitHub Actions
-- **Containerization:** Docker
-- **Orchestration:** Kubernetes (Helm charts)
-- **Infrastructure as Code:** Terraform skeleton
-- **Database Migrations:** Flyway
-- **Observability & Security:** Integrated monitoring, logging, and security tooling
-- **Developer-Friendly:** Modern workflows and developer tools
+- **Backend:** Java (Spring Boot)  
+- **Frontend:** React (Vite + JavaScript)  
+- **Database:** MySQL  
+- **CI/CD:** GitHub Actions  
+- **Containerization:** Docker  
+- **Security & Monitoring:** Integrated logging, monitoring, and security best practices  
+- **User-Friendly:** Modern UI, responsive design, and efficient developer workflows  
 
-🔗 [BuurtConnect GitHub Repository](https://github.com/GlennClaes/BuurtConnect)
+🔗 [EasyInvoice GitHub Repository](https://github.com/GlennClaes/EasyInvoice)
 
 </div>
 
