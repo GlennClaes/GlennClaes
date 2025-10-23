@@ -196,7 +196,8 @@ Modern analytics dashboard for e-commerce.
 # GitHub Analytics
 
 ### Stats
-![Glenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlennClaes&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&t=1761224736)
+![GlennClaes GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlennClaes&show_icons=true&theme=transparent&count_private=true)
+
 
 ![Glenn's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GlennClaes&theme=transparent&hide_border=false&t=1761224736)
 
