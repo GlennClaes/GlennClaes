@@ -2,24 +2,25 @@ name: Auto Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # every day at midnight
-  workflow_dispatch:       # manual trigger
+    - cron: '0 0 * * *'  # elke dag om middernacht
+  workflow_dispatch:       # handmatig triggeren
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repository
+      # Checkout repository met bot-token
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # Update timestamp in README.md
       - name: Update timestamp in README
         run: |
           TIMESTAMP=$(date +%s)
-          # Replace TIMESTAMP placeholder in all stat URLs
           sed -i "s/t=TIMESTAMP/t=$TIMESTAMP/g" README.md
 
-      # Commit and push the change
+      # Commit and push changes using the bot
       - name: Commit and Push changes
         run: |
           git config --local user.name "github-actions[bot]"
@@ -27,3 +28,5 @@ jobs:
           git add README.md
           git commit -m "Auto-update GitHub stats timestamp" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
