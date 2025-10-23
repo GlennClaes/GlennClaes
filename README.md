@@ -196,17 +196,17 @@ Modern analytics dashboard for e-commerce.
 # GitHub Analytics
 
 ### Stats
-![Glenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlennClaes&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+![Glenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlennClaes&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&t=TIMESTAMP)
 
-![Glenn's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GlennClaes&theme=transparent&hide_border=false)
+![Glenn's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GlennClaes&theme=transparent&hide_border=false&t=TIMESTAMP)
 
-![Glenn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlennClaes&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Glenn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlennClaes&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&t=TIMESTAMP)
 
 ### GitHub Trophies
-![Glenn's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GlennClaes&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+![Glenn's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GlennClaes&theme=transparent&no-frame=true&no-bg=true&margin-w=4&t=TIMESTAMP)
 
 ### Top Contributed Repositories
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=GlennClaes&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=GlennClaes&limit=5&theme=transparent&combine_all_yearly_contributions=true&t=TIMESTAMP)
 
 
 </div>
