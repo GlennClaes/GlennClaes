@@ -27,10 +27,10 @@ I'm passionate about exploring the potential of **AI** and creating projects tha
   
 # Connect with Me  
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/glenn.claes.10) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/glenn_claes_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glenn-claes-ai) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:claesglenn73@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/glenn.claes.10)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/glenn_claes_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/glenn-claes-ai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claesglenn73@gmail.com)
 
 ---
 
@@ -45,11 +45,13 @@ I'm passionate about exploring the potential of **AI** and creating projects tha
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 
 ### 🔹 Frameworks & Libraries  
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%231178CC.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET WPF](https://img.shields.io/badge/.NET_WPF-%231178CC.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
@@ -61,6 +63,10 @@ I'm passionate about exploring the potential of **AI** and creating projects tha
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) 
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) 
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) 
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) 
 
 ### 🔹 Databases  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -69,12 +75,15 @@ I'm passionate about exploring the potential of **AI** and creating projects tha
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ### 🔹 AI / Data Science  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 
 ### 🔹 DevOps & Cloud  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -82,6 +91,7 @@ I'm passionate about exploring the potential of **AI** and creating projects tha
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 
 ### 🔹 Tools & Platforms  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -94,6 +104,8 @@ I'm passionate about exploring the potential of **AI** and creating projects tha
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
 
 ---
 
@@ -117,9 +129,40 @@ A production-ready full-stack **Java (Spring Boot)** + **React (Vite + JavaScrip
 
 </div>
 
-![Loading](assets/loading_circle.gif)
+---
 
+<div align="left"> 
+  
+### Bethany’s Pie Shop 
+A hands-on learning project developed using ASP.NET Core MVC and Entity Framework Core. Created as part of a C# course, this application delves into LINQ, routing, views, forms, and REST APIs, all while adhering to clean architecture principles and leveraging modern .NET 8 development techniques. 
 
+**Tech & Features:** 
+- **Backend:** ASP.NET Core MVC
+- **Database:** Entity Framework Core
+- **Architecture:** Clean Architecture
+- **Development Techniques:** Modern .NET 8 practices
+
+🔗 [Bethany’s Pie Shop GitHub Repository](https://github.com/GlennClaes/BethanysPieShop) </div>
+
+---
+
+![Loading](assets/loading_circle.gif) 
+<!-- <div align="left">
+  
+### Zettelkasten Template
+A productivity-focused note-taking and knowledge management system built using modern web technologies. This project emphasizes simplicity, modularity, and the use of best practices for structured note organization inspired by the Zettelkasten method.
+
+**Tech & Features:**
+- **Frontend:** HTML, CSS, JavaScript
+- **Note Management:** Zettelkasten Method
+- **Features:** Tagging, linking notes, modular design
+- **Focus:** Simplicity, productivity, knowledge organization
+
+🔗 [Zettelkasten Template GitHub Repository](https://github.com/GlennClaes/zettelkasten-template)
+
+</div>
+
+![Loading](assets/loading_circle.gif) -->
 
 <!-- 
 ### 🚗 AI & ML: TrafficGuard  
@@ -150,18 +193,20 @@ Modern analytics dashboard for e-commerce.
 -->
 
 ---
+# GitHub Analytics
 
-# GitHub Analytics  
+### Stats
+![Glenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlennClaes&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api?username=GlennClaes&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=GlennClaes&theme=transparent&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GlennClaes&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![Glenn's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GlennClaes&theme=transparent&hide_border=false)
 
-## GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=GlennClaes&theme=transparent&no-frame=true&no-bg=true&margin-w=4)  
+![Glenn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlennClaes&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+### GitHub Trophies
+![Glenn's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GlennClaes&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=GlennClaes&icon=2&color=1)](https://visitcount.itsvg.in)  
+### Top Contributed Repositories
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=GlennClaes&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
 
 </div>
