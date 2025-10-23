@@ -9,10 +9,11 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      # Checkout repository
+      # Checkout repository and keep credentials for git push
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}  # automatically uses github-actions[bot]
+          persist-credentials: true          # this is key for git push to work
 
       # Update timestamp in README.md
       - name: Update timestamp in README
@@ -28,7 +29,6 @@ jobs:
           git add README.md
           git commit -m "Auto-update GitHub stats timestamp" || echo "No changes to commit"
 
-      # Push using the token (via URL)
+      # Push changes (no URL needed)
       - name: Push changes
-        run: |
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+        run: git push
