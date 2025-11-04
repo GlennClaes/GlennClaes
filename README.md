@@ -146,51 +146,64 @@ A hands-on learning project developed using ASP.NET Core MVC and Entity Framewor
 
 ---
 
-![Loading](assets/loading_circle.gif) 
-<!-- <div align="left">
-  
-### Zettelkasten Template
-A productivity-focused note-taking and knowledge management system built using modern web technologies. This project emphasizes simplicity, modularity, and the use of best practices for structured note organization inspired by the Zettelkasten method.
+<div align="left">
 
-**Tech & Features:**
-- **Frontend:** HTML, CSS, JavaScript
-- **Note Management:** Zettelkasten Method
-- **Features:** Tagging, linking notes, modular design
-- **Focus:** Simplicity, productivity, knowledge organization
+# Responsible AI: for a Fair Future  
+*(Book • Online via GitHub Pages)*
 
-🔗 [Zettelkasten Template GitHub Repository](https://github.com/GlennClaes/zettelkasten-template)
+[![Online](https://img.shields.io/badge/Online-via%20GitHub%20Pages-blue)](https://responsibleaiforafairfuture.com)  
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)  
+
+## Overview
+This book — available online at [responsibleaiforafairfuture.com](https://responsibleaiforafairfuture.com) — is a comprehensive guide on **Responsible Artificial Intelligence (Responsible AI)**.  
+It is structured as a Zettelkasten-style knowledge repository, with organized notes, frameworks, case studies, and best practices for ethical, fair, and socially responsible AI.
+
+## Contents & Highlights
+- **Ethics & Fairness:** Bias mitigation, fairness metrics, inclusive design.  
+- **Transparency & Explainability:** Frameworks and tools for model interpretability and auditing.  
+- **Privacy & Governance:** Data protection, privacy-by-design, governance models.  
+- **Technology Assessment:** Use of the Gartner Hype Cycle and Technology Readiness Levels (TRL) applied to AI innovations.  
+- **Sustainability & Impact:** Links to the UN Sustainable Development Goals (SDGs) and societal impact case studies.  
+- **Learning Style:** Zettelkasten-style notes for cross-linking ideas and continuous exploration.
+
+## Purpose
+- To explore AI beyond technical implementation — covering social, ethical, legal, and ecological aspects.  
+- To provide a reliable resource for understanding risks, opportunities, and best practices in AI.  
+- To make knowledge open and accessible to the community.
+
+## Audience
+- AI professionals, data scientists, and developers interested in responsible AI.  
+- Policy makers, ethicists, legal professionals, and anyone exploring societal implications of AI.  
+- Students and researchers seeking a structured overview and reference.
+
+## Technical Info & Hosting
+- The book is published via GitHub Pages (hosted directly from this repository).  
+- All sections are stored as Markdown files, allowing you to read locally or expand the content.  
+- License: MIT (see [LICENSE](LICENSE)).
+
+## How to Use
+1. Visit the online version at [responsibleaiforafairfuture.com](https://responsibleaiforafairfuture.com).  
+2. Clone the repository to read or explore the Markdown files locally.  
+3. Use the notes and links as a structured reference for Responsible AI topics.
+
+## Author & Credits
+Author: Glenn Claes  
+With thanks to the open-source and academic communities that inspire this work.
+
+## Disclaimer
+The content is for informational purposes. It should not be taken as legal, professional, or formal advice.
+
+### 🔗 Quick Links
+- [Online version](https://responsibleaiforafairfuture.com)  
+- [GitHub repository](https://github.com/GlennClaes/Responsible-AI-2025)
 
 </div>
 
-![Loading](assets/loading_circle.gif) -->
-
-<!-- 
-### 🚗 AI & ML: TrafficGuard  
-AI-based license plate & vehicle detection system.  
-**Tech:** Python, PyTorch, OpenCV, FastAPI  
-🔗 [TrafficGuard](https://github.com/GlennClaes/TrafficGuard)  
 
 ---
 
-### 👁️ Computer Vision App  
-Face, hand & age detection using pre-trained models.  
-**Tech:** Python, OpenCV, PyTorch  
-🔗 [VisionDetectionApp](https://github.com/GlennClaes/VisionDetectionApp)  
+![Loading](assets/loading_circle.gif) 
 
----
-
-### 🌍 Full-Stack Portfolio  
-Personal portfolio built with Vue.js & FastAPI backend.  
-**Tech:** Vue.js, FastAPI, Docker  
-🔗 [portfolio-glenn-claes](https://github.com/GlennClaes/portfolio-glenn-claes)  
-
----
-
-### 📊 UI Dashboard  
-Modern analytics dashboard for e-commerce.  
-**Tech:** React, TailwindCSS  
-🔗 [ecommerce-dashboard-ui](https://github.com/GlennClaes/ecommerce-dashboard-ui)  
--->
 
 ---
 # GitHub Analytics
