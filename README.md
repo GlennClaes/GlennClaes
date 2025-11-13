@@ -151,11 +151,11 @@ A hands-on learning project developed using ASP.NET Core MVC and Entity Framewor
 # Responsible AI: for a Fair Future  
 *(Book • Online via GitHub Pages)*
 
-[![Online](https://img.shields.io/badge/Online-via%20GitHub%20Pages-blue)](https://glennclaes.github.io/Responsible-AI-2025/)  
+[![Online](https://img.shields.io/badge/Online-via%20GitHub%20Pages-blue)](https://glennclaes.github.io/Responsible-AI-2025)  
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)  
 
 ## Overview
-This book — available online at [https://glennclaes.github.io/Responsible-AI-2025/](https://glennclaes.github.io/Responsible-AI-2025/) — is a comprehensive guide on **Responsible Artificial Intelligence (Responsible AI)**.  
+This book — available online at [https://glennclaes.github.io/Responsible-AI-2025](https://glennclaes.github.io/Responsible-AI-2025) — is a comprehensive guide on **Responsible Artificial Intelligence (Responsible AI)**.  
 It is structured as a Zettelkasten-style knowledge repository, with organized notes, frameworks, case studies, and best practices for ethical, fair, and socially responsible AI.
 
 ## Contents & Highlights
@@ -182,7 +182,7 @@ It is structured as a Zettelkasten-style knowledge repository, with organized no
 - License: MIT (see [LICENSE](LICENSE)).
 
 ## How to Use
-1. Visit the online version at [https://glennclaes.github.io/Responsible-AI-2025/](https://glennclaes.github.io/Responsible-AI-2025/).  
+1. Visit the online version at [https://glennclaes.github.io/Responsible-AI-2025](https://glennclaes.github.io/Responsible-AI-2025).  
 2. Clone the repository to read or explore the Markdown files locally.  
 3. Use the notes and links as a structured reference for Responsible AI topics.
 
@@ -194,7 +194,7 @@ With thanks to the open-source and academic communities that inspire this work.
 The content is for informational purposes. It should not be taken as legal, professional, or formal advice.
 
 ### 🔗 Quick Links
-- [Online version](https://glennclaes.github.io/Responsible-AI-2025/)  
+- [Online version](https://glennclaes.github.io/Responsible-AI-2025)  
 - [GitHub repository](https://github.com/GlennClaes/Responsible-AI-2025)
 
 </div>
