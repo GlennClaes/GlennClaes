@@ -209,11 +209,13 @@ The content is for informational purposes. It should not be taken as legal, prof
 
 # GitHub Analytics
 
-![GlennClaes GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlennClaes&show_icons=true&theme=transparent&count_private=true&t=1767097376)
+![GlennClaes GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlennClaes&show_icons=true&theme=transparent&count_private=true&cache_seconds=86400&t=20251230
+)
 
 ![Glenn's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GlennClaes&theme=transparent&hide_border=false&t=1767097376)
 
-![Glenn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlennClaes&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&t=1767097376)
+![Glenn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlennClaes&theme=transparent&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400&t=20251230
+)
 
 ### GitHub Trophies
 ![Glenn's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GlennClaes&theme=transparent&no-frame=true&no-bg=true&margin-w=4&t=1767097376)
