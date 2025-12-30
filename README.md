@@ -209,17 +209,18 @@ The content is for informational purposes. It should not be taken as legal, prof
 # GitHub Analytics
 
 ### Stats
-![GlennClaes GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlennClaes&show_icons=true&theme=transparent&count_private=true&t=1767060725)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlennClaes&show_icons=true&theme=transparent&hide_border=true&token=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)
 
-![Glenn's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GlennClaes&theme=transparent&hide_border=false&t=1767060725)
+![GitHub Streak](https://streak-stats.demolab.com?user=GlennClaes&theme=transparent&hide_border=true&token=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)
 
-![Glenn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlennClaes&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&t=1767060725)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlennClaes&layout=compact&theme=transparent&hide_border=true&token=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)
 
 ### GitHub Trophies
-![Glenn's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GlennClaes&theme=transparent&no-frame=true&no-bg=true&margin-w=4&t=1767060725)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GlennClaes&theme=flat&no-frame=true&margin-w=8&token=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)
 
 ### Top Contributed Repositories
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=GlennClaes&limit=5&theme=transparent&combine_all_yearly_contributions=true&t=1767060725)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=GlennClaes&limit=5&theme=transparent&token=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)
+
 
 
 </div>
