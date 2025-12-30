@@ -212,16 +212,16 @@ The content is for informational purposes. It should not be taken as legal, prof
 ![GlennClaes GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlennClaes&show_icons=true&theme=transparent&count_private=true&cache_seconds=86400&t=20251230
 )
 
-![Glenn's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GlennClaes&theme=transparent&hide_border=false&t=1767097376)
+![Glenn's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GlennClaes&theme=transparent&hide_border=false&t=20251230)
 
 ![Glenn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GlennClaes&theme=transparent&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400&t=20251230
 )
 
 ### GitHub Trophies
-![Glenn's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GlennClaes&theme=transparent&no-frame=true&no-bg=true&margin-w=4&t=1767097376)
+![Glenn's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GlennClaes&theme=transparent&no-frame=true&no-bg=true&margin-w=4&t=20251230)
 
 ### Top Contributed Repositories
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=GlennClaes&limit=5&theme=transparent&combine_all_yearly_contributions=true&t=1767097376)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=GlennClaes&limit=5&theme=transparent&combine_all_yearly_contributions=true&t=20251230)
 
 
 </div>
