@@ -1,4 +1,4 @@
-
+[![Auto Update GitHub Stats](https://github.com/GlennClaes/GlennClaes/actions/workflows/auto-update-stats.yml/badge.svg)](https://github.com/GlennClaes/GlennClaes/actions/workflows/auto-update-stats.yml)
 <div align="center">
   
 # About Me  
