@@ -210,5 +210,6 @@ The content is for informational purposes. It should not be taken as legal, prof
 # GitHub Analytics
 
 <!-- START GITHUB STATS -->
+![GitHub Stats](stats_generator/output/github_stats.png)
 <!-- END GITHUB STATS -->
 </div>
