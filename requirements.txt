@@ -1,4 +1,5 @@
 requests
-pillow
-pygal     
-cairosvg   
+Pillow
+pygal
+cairosvg
+svgwrite
