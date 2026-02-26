@@ -20,8 +20,8 @@ jobs:
       # Update timestamp in README.md
       - name: Update timestamp in README
         run: |
-          TIMESTAMP=$(date +%s)
-           sed -i -E "s/&t=[0-9]+/&t=$TIMESTAMP/g" README.md
+          TIMESTAMP=$(date +%Y%m%d)
+          sed -i -E "s/([?&]t=)[0-9]+/\1$TIMESTAMP/g" README.md
 
       # Commit changes
       - name: Commit changes
