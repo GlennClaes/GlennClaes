@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install dependencies
-        run: pip install requests pillow
+        run: pip install requests pillow svgwrite pygal cairosvg
       - name: Generate GitHub Stats
         run: python stats_generator/generate_stats.py
       - name: Commit README update
