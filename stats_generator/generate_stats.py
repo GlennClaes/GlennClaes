@@ -9,7 +9,7 @@ OUTPUT_DIR = "stats_generator/output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 OUTPUT_SVG = f"{OUTPUT_DIR}/github_stats.svg"
 
-# 1. Haal alle public repos op
+
 repos = requests.get(f"https://api.github.com/users/{USERNAME}/repos").json()
 
 # 2. Verzamel stats
