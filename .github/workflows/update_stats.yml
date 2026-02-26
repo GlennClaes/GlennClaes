@@ -1,0 +1,27 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # dagelijks middernacht UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests pillow
+      - name: Generate GitHub Stats
+        run: python stats_generator/generate_stats.py
+      - name: Commit README update
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md stats_generator/output/github_stats.png
+          git commit -m "Update GitHub Stats" || echo "No changes"
+          git push

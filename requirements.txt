@@ -1,0 +1,4 @@
+requests
+pillow
+pygal     
+cairosvg   
